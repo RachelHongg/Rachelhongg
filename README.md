@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?height=350&text=RachelHongg&desc=welcome%20to%20my%20github&animation=fadeIn)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweet2you)](https://solved.ac/sweet2you/)
-
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sweet2you"/>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelHongg&show_icons=true&theme=radical)
 
